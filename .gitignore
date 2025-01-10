@@ -53,3 +53,4 @@ node_modules/
 # Other
 *.swp
 *.swo
+venv/
